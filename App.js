@@ -1,11 +1,13 @@
 
 import { StyleSheet, Text, View,ScrollView  } from 'react-native';
 import Searchbar from './components/searchbar';
+import Topbar from './components/topbar';
 
 export default function App() {
   return (
     <ScrollView>
     <View style={styles.container}>
+      <Topbar/>
       <Searchbar/>
     </View>
   </ScrollView>
