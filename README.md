@@ -32,3 +32,7 @@ This assignment is about recreate a UI mockup design in react native
 
 - **Image:** The Image component is used to display images in your app. It supports various sources like local files, network URLs, and static resources.
 
+## Screenshot
+
+
+
